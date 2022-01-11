@@ -1,0 +1,27 @@
+#Menginput Nilai Tugas ,UTS , dan UAS
+tugas = float(input("Masukkan nilai Tugas: "))
+uts = float(input("Masukkan nilai UTS: "))
+uas = float(input("Masukkan nilai UAS: "))
+
+#Menentukan Grade Berdasarkan Nilai Akhir
+if nilai > 80:
+    grade = 'A'
+elif nilai > 70:
+    grade = 'B'
+elif nilai > 60:
+    grade = 'C'
+elif nilai > 50:
+    grade = 'D'
+else:
+    grade = 'E'
+
+#Menentukan Status Kelulusan Berdasarkan Nilai Akhir
+if nilai > 60:
+    status = 'lulus'
+else:
+    status = 'tidak lulus'
+
+#Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
+print('Nilai Akhir: %.2f' % nilai)
+print('Grade: {} .format(grade))
+print('status:{}'.format(status))
