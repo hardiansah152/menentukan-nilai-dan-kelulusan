@@ -23,4 +23,11 @@ if nilai > 60:
     status = 'lulus'
 else:
     status = 'tidak lulus'
+
+ #Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
+print('Nilai Akhir: %.2f' % nilai)
+print('Grade: {} .format(grade))
+print('status:{}'.format(status))
+
+   
  
