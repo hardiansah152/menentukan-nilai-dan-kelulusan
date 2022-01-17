@@ -19,6 +19,9 @@ else:
     grade = 'E'
 
 
+#Menentukan Status Kelulusan Berdasarkan Nilai Akhir
+if nilai > 60:
+
  
   
  
