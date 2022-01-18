@@ -17,15 +17,13 @@ if nilai > 80:
         grade = 'D'
     else:
         grade = 'E'
-
- #Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
-print('Nilai Akhir: %.2f' % nilai)
-print('Grade: {} .format(grade))    
-
-#Menentukan Status Kelulusan Berdasarkan Nilai Akhir
+ #Menentukan Status Kelulusan Berdasarkan Nilai Akhir
 if nilai > 60:
     status = 'lulus'
 else:
     status = 'tidak lulus'
+       
+
+
 
     
