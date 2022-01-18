@@ -18,6 +18,10 @@ if nilai > 80:
     else:
         grade = 'E'
 
+ #Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
+print('Nilai Akhir: %.2f' % nilai)
+       
+
 #Menentukan Status Kelulusan Berdasarkan Nilai Akhir
 if nilai > 60:
     status = 'lulus'
