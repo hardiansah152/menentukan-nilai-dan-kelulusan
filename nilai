@@ -17,4 +17,11 @@ if nilai > 80:
         grade = 'D'
     else:
         grade = 'E'
+
+#Menentukan Status Kelulusan Berdasarkan Nilai Akhir
+if nilai > 60:
+    status = 'lulus'
+else:
+    status = 'tidak lulus'
+
     
