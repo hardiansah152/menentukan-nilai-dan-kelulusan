@@ -3,6 +3,7 @@ tugas = float(input("Masukkan nilai Tugas: "))
 uts = float(input("Masukkan nilai UTS: "))
 uas = float(input("Masukkan nilai UAS: "))
 
+#Menghitung Nilai Akhir sesuai dengan Bobot
 
 
    
