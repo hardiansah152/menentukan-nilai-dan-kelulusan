@@ -18,6 +18,7 @@ elif nilai > 50:
 else:
     grade = 'E'
 
+#Menentukan Status Kelulusan Berdasarkan Nilai Akhir
 
 
 
