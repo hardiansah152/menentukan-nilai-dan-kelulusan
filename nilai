@@ -25,7 +25,7 @@ else:
     status = 'tidak lulus'
 
 #Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
-
+print('Nilai Akhir: %.2f' % nilai)
 
 
 
