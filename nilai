@@ -24,6 +24,7 @@ if nilai > 60:
 else:
     status = 'tidak lulus'
 
+#Menampilkan Nilai Akhir , Grade , dan Status Kelulusan
 
 
 
