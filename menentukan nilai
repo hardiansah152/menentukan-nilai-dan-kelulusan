@@ -1,3 +1,4 @@
 #Menginput Nilai Tugas
 tugas = float(input("Masukkan nilai tugas: "))
 #Menginput Nilai UTS
+uts = float(input("Masukkan nilai UTS: "))
