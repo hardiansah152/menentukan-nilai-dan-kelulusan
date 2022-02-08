@@ -12,3 +12,4 @@ nilai = (0.5 * tugas) + (0.35 * uts) + (0.50 * uas)
 if nilai > 80:
 grade = 'A'
 elif nilai > 70:
+grade = 'B'
