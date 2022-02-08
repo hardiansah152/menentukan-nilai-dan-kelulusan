@@ -13,3 +13,4 @@ if nilai > 80:
 grade = 'A'
 elif nilai > 70:
 grade = 'B'
+elif nilai > 60:
