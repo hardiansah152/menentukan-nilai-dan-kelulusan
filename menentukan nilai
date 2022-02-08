@@ -18,3 +18,4 @@ grade = 'C'
 elif nilai > 50:
 grade = 'D'
 else:
+    grade = 'E'
