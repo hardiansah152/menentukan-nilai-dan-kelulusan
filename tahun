@@ -16,3 +16,4 @@ if (tahun % 4) == 0:
                                          print("{0} adalah tahun kabisat".format(tahun))
                                                      #Bukan Tergolong Tahun Kabisat
                                                                  else:
+                                                                 print("{0} bukan tahun kabisat".(tahun))
