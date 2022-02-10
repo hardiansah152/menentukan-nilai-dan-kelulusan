@@ -29,4 +29,4 @@ else:
 #Menampilkan Nilai Akhir, Grade, dan Status Kelulusan
 print('Nilai Akhir: %0.2f' % nilai)
 print('Grade: {}'.format(grade))
-print('status: {}'.format(status)).
+print('status: {}'.format(status))
