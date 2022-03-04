@@ -18,6 +18,7 @@ else :
     grade = 'E'
 
 if niai >60:
+    status = 'lulus'
 
 
 
