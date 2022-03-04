@@ -14,6 +14,10 @@ elif nilai > 60:
     grade = 'C'
 elif nilai > 50:
     grade = 'D'
+else :
+    grade = 'E'
+
+if niai >60:
 
 
 
