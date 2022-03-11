@@ -13,7 +13,7 @@ elif nilai > 70:
 elif nilai > 60:
  grade = 'C'
 elif nilai > 50:
-    grade = 'D'
+   grade = 'D'
 else :
  grade = 'E'
 
